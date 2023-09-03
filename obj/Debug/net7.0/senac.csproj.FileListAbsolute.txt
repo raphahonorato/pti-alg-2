@@ -1,0 +1,15 @@
+/home/rapha/Downloads/working/senac/pti/bin/Debug/net7.0/senac
+/home/rapha/Downloads/working/senac/pti/bin/Debug/net7.0/senac.deps.json
+/home/rapha/Downloads/working/senac/pti/bin/Debug/net7.0/senac.runtimeconfig.json
+/home/rapha/Downloads/working/senac/pti/bin/Debug/net7.0/senac.dll
+/home/rapha/Downloads/working/senac/pti/bin/Debug/net7.0/senac.pdb
+/home/rapha/Downloads/working/senac/pti/obj/Debug/net7.0/senac.csproj.AssemblyReference.cache
+/home/rapha/Downloads/working/senac/pti/obj/Debug/net7.0/senac.GeneratedMSBuildEditorConfig.editorconfig
+/home/rapha/Downloads/working/senac/pti/obj/Debug/net7.0/senac.AssemblyInfoInputs.cache
+/home/rapha/Downloads/working/senac/pti/obj/Debug/net7.0/senac.AssemblyInfo.cs
+/home/rapha/Downloads/working/senac/pti/obj/Debug/net7.0/senac.csproj.CoreCompileInputs.cache
+/home/rapha/Downloads/working/senac/pti/obj/Debug/net7.0/senac.dll
+/home/rapha/Downloads/working/senac/pti/obj/Debug/net7.0/refint/senac.dll
+/home/rapha/Downloads/working/senac/pti/obj/Debug/net7.0/senac.pdb
+/home/rapha/Downloads/working/senac/pti/obj/Debug/net7.0/senac.genruntimeconfig.cache
+/home/rapha/Downloads/working/senac/pti/obj/Debug/net7.0/ref/senac.dll
